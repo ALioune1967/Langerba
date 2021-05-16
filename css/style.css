@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2? family = Merriweather + Sans: wght @ 300 & display = swap");
+
+/*=========Début header=========*/
+
+#langerba {
+  font-family: "Merriweather", serif;
+  font-size: 30px;
+  text-decoration: none;
+  color: #fff;
+}
+.navbar {
+  background-color: #003c5a;
+}
+#onglets li {
+  padding: 34.5px 10px 30.5px;
+}
+#onglets li a {
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
+#onglets li a:hover {
+  color: #fff;
+}
+#numb a {
+  color: #fff;
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+}
+#numb a:hover {
+  color: #fc8f44;
+}
+.header_area .main-menu.navbar .container .onglets a:hover {
+  color: #fff;
+}
+
+/*=========Fin header=========*/
+
+/*=========Début Banniére=========*/
+.site-banner {
+  background-repeat: no-repeat;
+  background-image: url(../image/langerba.png);
+  background-size: cover;
+}
+.site-banner {
+  margin-top: 110px;
+  padding-top: 100px;
+  text-align: center;
+  padding-bottom: 300px;
+}
+#open {
+  color: #fff;
+  font-family: "Merriweather", serif;
+  font-size: 48px;
+}
+#learn {
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+}
+.btn {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  background-color: #fc8f44;
+  padding: 10px 40px 10px 40px;
+  border-radius: 20px;
+}
+
+/*=========Fin Banniére=========*/
+
+/*=========Début Ssection 1=========*/
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 40px;
+}
+.lead {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  color: #695a55;
+}
+.txt {
+  color: #7d7d7d;
+}
+.section1 {
+  background-color: #edf4f8;
+}
+/*=========Fin Ssection 1=========*/
+
+.section2 #icon {
+  margin-left: 50px;
+  fill: #fc8f44;
+}
+
+.section3 {
+  background-color: #edf4f8;
+}
+
+.section4 {
+  background-color: #003c5a;
+}
+.section4 .container {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.section4 .container h1 {
+  color: #fff;
+}
+.section4 .container p {
+  color: #2379a3;
+}
+
+#inputemail {
+  border-radius: 30px;
+  height: 45px;
+}
+
+.section5 {
+  background-color: #e76e33;
+}
+
+h2 {
+  color: #fff;
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+.footer {
+  background-color: #272727;
+  color: #fff;
+}
+
+.logo a {
+  color: #fff;
+}
+
+.onglet ul li a {
+  color: #6f6043;
+}
+.onglet ul li a:hover {
+  color: #fff;
+}
+
+.fab {
+  color: #7d7d73;
+}
+.fab:hover {
+  color: #e76e33;
+}
+.pfooter {
+  font-size: 13px;
+  font-family: "Open", sans-serif;
+}
