@@ -39,11 +39,17 @@
 /*=========Début Banniére=========*/
 .site-banner {
   background-repeat: no-repeat;
-  background-image: url(../image/langerba.png);
+  background-image: url(../image/baniere.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
   background-size: cover;
 }
+
 .site-banner {
-  margin-top: 110px;
+  margin-top: 60px;
   padding-top: 100px;
   text-align: center;
   padding-bottom: 300px;
